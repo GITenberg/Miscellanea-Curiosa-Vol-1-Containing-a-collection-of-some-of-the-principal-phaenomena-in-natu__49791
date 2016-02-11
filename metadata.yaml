@@ -1,0 +1,42 @@
+_repo: Miscellanea-Curiosa-Vol-1-Containing-a-collection-of-some-of-the-principal-phaenomena-in-natu__49791
+contributor:
+  contributors:
+  - agent_name: Wallis, John
+    gutenberg_agent_id: '45544'
+    url: http://www.gutenberg.org/2009/agents/45544
+  - agent_name: Havers, Clopton
+    gutenberg_agent_id: '45543'
+    url: http://www.gutenberg.org/2009/agents/45543
+  - agent_name: Garden, George
+    gutenberg_agent_id: '45542'
+    url: http://www.gutenberg.org/2009/agents/45542
+  - agent_name: Newton, Isaac, Sir
+    birthdate: 1642
+    deathdate: 1727
+    gutenberg_agent_id: '6288'
+    url: http://www.gutenberg.org/2009/agents/6288
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Newton
+  creator:
+    editor: &id001
+      agent_name: Halley, Edmond
+      gutenberg_agent_id: '45541'
+      url: http://www.gutenberg.org/2009/agents/45541
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2015-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Miscellanea Curiosa, Vol 1
+
+  Containing a collection of some of the principal phaenomena
+
+  in nature, accounted for by the greatest philosophers of
+
+  this age'
+url: http://www.gutenberg.org/ebooks/49791
