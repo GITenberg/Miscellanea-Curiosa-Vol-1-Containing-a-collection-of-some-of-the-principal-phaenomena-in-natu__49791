@@ -38,6 +38,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Miscellanea Curiosa, Vol 1
 
   Containing a collection of some of the principal phaenomena
